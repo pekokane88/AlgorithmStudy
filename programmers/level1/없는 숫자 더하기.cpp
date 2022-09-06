@@ -1,5 +1,5 @@
 /*
-  배열의 Index를 값으로 사용. bucket[i] 가 0이면 그 숮자는 없는 값이기에 더해주면 된다.
+ DAT 이용. bucket[i] 가 0이면 그 숫자는 없는 값이기에 더해주면 된다.
 */
 
 #include <string>
