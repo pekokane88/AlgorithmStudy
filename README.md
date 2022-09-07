@@ -7,3 +7,5 @@
 * 22.09.06
   * [프로그래머스/음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501, "음양 더하기 Link")
   * [프로그래머스/없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051, "없는 숫자 더하기 Link")
+* 22.09.07
+  * [프로그래머스/부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612,"부족한 금액 계산하기 Link")
