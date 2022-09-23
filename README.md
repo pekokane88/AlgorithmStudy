@@ -13,3 +13,11 @@
   * 백준 14923 미로 탈출 (해결중)
 * 22.09.16
   * [프로그래머스/소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977, "소수만들기 Link")
+* 22.09.23 (업데이트 까먹음...)
+  * 2016년
+  * 나머지가 1이되는 수 찾기
+  * 다트 게임
+  * 두 개 뽑아서 더하기
+  * 비밀지도
+  * [프로그래머스/예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982, "예산 Link")
+  * 
