@@ -20,3 +20,4 @@
   * 프로그래머스/두 개 뽑아서 더하기
   * 프로그래머스/비밀지도
   * [프로그래머스/예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982, "예산 Link")
+  * [프로그래머스/실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889, "실패율 Link")
