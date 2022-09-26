@@ -26,3 +26,4 @@
 * 22.09.26
   * [백준/1991반 : 트리 순회](https://www.acmicpc.net/problem/1991, "1991번 Link")
   * [프로그래머스/최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941, "최솟값 만들기 Link")
+  * [프로그래머스/피보나치 수열](https://school.programmers.co.kr/learn/courses/30/lessons/12945, "피보나치 수열 Link")
