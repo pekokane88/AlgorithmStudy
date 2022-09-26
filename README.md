@@ -22,6 +22,7 @@
   * [프로그래머스/예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982, "예산 Link")
   * [프로그래머스/실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889, "실패율 Link")
 * 22.09.24
-  * [프로그래머스/신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334, " Link")
+  * [프로그래머스/신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334, "신고 결과 받기 Link")
 * 22.09.26
   * [백준/1991반 : 트리 순회](https://www.acmicpc.net/problem/1991, "1991번 Link")
+  * [프로그래머스/최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941, "최솟값 만들기 Link")
