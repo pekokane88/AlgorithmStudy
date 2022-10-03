@@ -24,6 +24,11 @@
 * 22.09.24
   * [프로그래머스/신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334, "신고 결과 받기 Link")
 * 22.09.26
-  * [백준/1991반 : 트리 순회](https://www.acmicpc.net/problem/1991, "1991번 Link")
+  * [백준/1991번 : 트리 순회](https://www.acmicpc.net/problem/1991, "1991번 Link")
   * [프로그래머스/최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941, "최솟값 만들기 Link")
   * [프로그래머스/피보나치 수열](https://school.programmers.co.kr/learn/courses/30/lessons/12945, "피보나치 수열 Link")
+* 22.10.03 (갱신 또 까먹었다...)
+  * [백준/17136번 : 색종이 붙이기]
+  * [프로그래머스/구명보트]
+  * [프로그래머스/점프와 순간이동]
+  * [프로그래머스/체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862, "체육복 Link")
