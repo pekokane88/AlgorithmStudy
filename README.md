@@ -32,3 +32,5 @@
   * [프로그래머스/구명보트]
   * [프로그래머스/점프와 순간이동]
   * [프로그래머스/체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862, "체육복 Link")
+* 22.10.15
+  * [프로그래머스/행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949, " Link")
