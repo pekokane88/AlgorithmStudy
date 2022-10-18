@@ -33,4 +33,6 @@
   * [프로그래머스/점프와 순간이동]
   * [프로그래머스/체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862, "체육복 Link")
 * 22.10.15
-  * [프로그래머스/행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949, " Link")
+  * [프로그래머스/행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949, "행렬곱셈 Link")
+* 22.10.18
+   * [프로그래머스/기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586, "기능 개발 Link")
