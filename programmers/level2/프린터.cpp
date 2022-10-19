@@ -1,4 +1,5 @@
 /*
+  level 2의 기능 개발과 같이 풀어보면 좋은 문제인 것 같다.
   최댓값을 이용해야 하기 때문에 queue와 priority_queue를 같이 사용한다.
 */
 #include <string>
