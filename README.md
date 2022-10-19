@@ -36,3 +36,5 @@
   * [프로그래머스/행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949, "행렬곱셈 Link")
 * 22.10.18
    * [프로그래머스/기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586, "기능 개발 Link")
+* 22.10.19
+   * [프로그래머스/기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42587, "프린터 Link")
