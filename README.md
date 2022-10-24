@@ -41,3 +41,5 @@
 * 22.10.22
   * [프로그래머스/[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677, "[1차] 뉴스 클러스터링 Link")
   * [프로그래머스/타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165, "타겟 넘버 Link")
+* 22.10.24
+  * [프로그래머스/주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341, "주차 요금 계산 Link")
