@@ -44,5 +44,5 @@
 * 22.10.24
   * [프로그래머스/주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341, "주차 요금 계산 Link")
 * 22.10.26
-  * [프로그래머스/주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/42626, "더 맵게 Link")
+  * [프로그래머스/더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626, "더 맵게 Link")
   
