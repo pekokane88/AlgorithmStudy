@@ -47,4 +47,6 @@
   * [프로그래머스/더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626, "더 맵게 Link")
 * 22.10.28
   * [프로그래머스/오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888, "오픈채팅방 Link")
+* 22.10.29
+  * [프로그래머스/스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993, " Link")
   
