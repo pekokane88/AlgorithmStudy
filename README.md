@@ -48,4 +48,7 @@ Algorithm Study History
   * [프로그래머스/오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888, "오픈채팅방 Link")
 * 22.10.29
   * [프로그래머스/스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993, "스킬트리 Link")
-  * [프로그래머스/피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946, " Link")
+  * [프로그래머스/피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946, "피로도 Link")
+* 22.10.31(Happy_Halloween)
+  * [프로그래머스/모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512, " Link")
+
