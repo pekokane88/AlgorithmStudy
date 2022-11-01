@@ -52,4 +52,7 @@ Algorithm Study History
 * 22.10.31(Happy_Halloween)
   * [프로그래머스/모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512, "모음사전 Link")
   * [프로그래머스/주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584, "주식가격 Link") - 시간복잡도 연구 필요
+* 22.11.01
+  * [프로그래머스/전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577, "전화번호 목록 Link")
+ 
 
