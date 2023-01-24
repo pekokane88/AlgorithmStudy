@@ -58,5 +58,6 @@ Algorithm Study History
   * [프로그래머스/소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839, "소수 찾기 Link")
 * 23.01.24
   * [프로그래머스/최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491, "최소 직사각형 Link")
+  * [프로그래머스/삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705, "삼총사 Link")
  
 
