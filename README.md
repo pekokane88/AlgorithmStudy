@@ -56,5 +56,7 @@ Algorithm Study History
   * [프로그래머스/전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577, "전화번호 목록 Link")
 * 22.11.02
   * [프로그래머스/소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839, "소수 찾기 Link")
+* 23.01.24
+  * [프로그래머스/최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491, "최소 직사각형 Link")
  
 
