@@ -60,6 +60,8 @@ Algorithm Study History
   * [프로그래머스/최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491, "최소 직사각형 Link")
   * [프로그래머스/삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705, "삼총사 Link")
 *23.01.28
-  * [프로그래머스/등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882#, "등수 매기기 Link")
+  * [프로그래머스/등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882, "등수 매기기 Link")
+*23.02.02
+  * [프로그래머스/다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863, "다항식 더하기 Link")
  
 
