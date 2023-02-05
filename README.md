@@ -63,5 +63,7 @@ Algorithm Study History
   * [프로그래머스/등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882, "등수 매기기 Link")
 * 23.02.02
   * [프로그래머스/다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863, "다항식 더하기 Link")
+* 23.02.05
+  * [프로그래머스/크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355, "크기가 작은 부분 문자열 Link")
  
 
