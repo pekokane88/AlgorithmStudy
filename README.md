@@ -67,4 +67,6 @@ Algorithm Study History
   * [프로그래머스/크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355, "크기가 작은 부분 문자열 Link")
 * 23.02.12
   * [프로그래머스/콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267, "콜라 문제")
+* 23.02.18
+  * [프로그래머스/푸드 파이터](https://school.programmers.co.kr/learn/courses/30/lessons/134240, "푸드 파이터")
 
