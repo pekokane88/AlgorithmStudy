@@ -72,4 +72,4 @@ Algorithm Study History
 * 23.02.19
   * [프로그래머스/가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086#, "가장 가까운 같은 글자")
   * [프로그래머스/분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808, "분수의 덧셈")
-  * [프로그래머스/과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808, "분수의 덧셈")
+  * [프로그래머스/과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808, "과일 장수")
