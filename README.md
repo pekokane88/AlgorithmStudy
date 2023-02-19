@@ -69,4 +69,6 @@ Algorithm Study History
   * [프로그래머스/콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267, "콜라 문제")
 * 23.02.18
   * [프로그래머스/푸드 파이터](https://school.programmers.co.kr/learn/courses/30/lessons/134240, "푸드 파이터")
+* 23.02.19
+  * [프로그래머스/가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086#, "가장 가까운 같은 글자")
 
