@@ -74,3 +74,5 @@ Algorithm Study History
   * [프로그래머스/분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808, "분수의 덧셈")
   * [프로그래머스/과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808, "과일 장수")
   * [프로그래머스/명예의 전당1](https://school.programmers.co.kr/learn/courses/30/lessons/138477, "명예의 전당1")
+* 23.02.23
+  * [프로그래머스/기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798, "기사단원의 무기")
