@@ -76,3 +76,5 @@ Algorithm Study History
   * [프로그래머스/명예의 전당1](https://school.programmers.co.kr/learn/courses/30/lessons/138477, "명예의 전당1")
 * 23.02.23
   * [프로그래머스/기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798, "기사단원의 무기")
+* 23.03.01
+  * [프로그래머스/옹알이1](https://school.programmers.co.kr/learn/courses/30/lessons/120956, "옹알이1")
