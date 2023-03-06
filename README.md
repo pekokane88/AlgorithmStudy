@@ -85,4 +85,6 @@ Algorithm Study History
 * 23.03.05
   * [프로그래머스/카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/140108, "문자열 나누기")
   * [프로그래머스/안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866, "안전지대")
+* 23.03.06
+  * [프로그래머스/대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586, "대충 만든 자판")
  
