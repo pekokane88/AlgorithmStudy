@@ -87,4 +87,7 @@ Algorithm Study History
   * [프로그래머스/안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866, "안전지대")
 * 23.03.06
   * [프로그래머스/대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586, "대충 만든 자판")
+* 23.03.11
+  * [프로그래머스/연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923, "연속된 수의 합")
+  
  
