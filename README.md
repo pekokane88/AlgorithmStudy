@@ -89,5 +89,7 @@ Algorithm Study History
   * [프로그래머스/대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586, "대충 만든 자판")
 * 23.03.11
   * [프로그래머스/연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923, "연속된 수의 합")
+* 23.03.12
+  * [프로그래머스/바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990, "바")
   
  
