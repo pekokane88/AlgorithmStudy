@@ -90,6 +90,8 @@ Algorithm Study History
 * 23.03.11
   * [프로그래머스/연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923, "연속된 수의 합")
 * 23.03.12
-  * [프로그래머스/바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990, "바")
+  * [프로그래머스/바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990, "바탕화면 정리")
+* 23.03.14
+  * [프로그래머스/햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502, "햄버거 만들기")
   
  
