@@ -95,6 +95,9 @@ Algorithm Study History
   * [프로그래머스/햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502, "햄버거 만들기")
 * 23.03.20
   * [프로그래머스/덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989, "덧칠하기")
+* 23.03.20
+  * [프로그래머스/평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875, "")
+  
   
   
  
