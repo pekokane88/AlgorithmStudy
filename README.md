@@ -97,6 +97,9 @@ Algorithm Study History
   * [프로그래머스/덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989, "덧칠하기")
 * 23.03.20
   * [프로그래머스/평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875, "")
+* 23.03.22
+  * [프로그래머스/N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953, "N개의 최소공배수")
+
   
   
   
