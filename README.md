@@ -102,6 +102,8 @@ Algorithm Study History
 * 23.04.06
   * [프로그래머스/달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871, "달리기 경주")
   * [프로그래머스/추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963, "추억 점수")
+* 23.04.07
+  * [프로그래머스/공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928, "공원 산책") 
 
   
   
