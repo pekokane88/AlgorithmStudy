@@ -107,6 +107,7 @@ Algorithm Study History
 * 23.04.09
   * [프로그래머스/귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476, "귤 고르기")
   * [프로그래머스/예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985, "예상 대진표")
+  * [프로그래머스/괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502, "괄호 회전하기")
 
   
   
