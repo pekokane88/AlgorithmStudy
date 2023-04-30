@@ -110,6 +110,9 @@ Algorithm Study History
   * [프로그래머스/괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502, "괄호 회전하기")
 * 23.04.09
   * [프로그래머스/할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127, "할인 행사")
+* 23.04.30
+  * [프로그래머스/K진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335, "K진수에서 소수 개수 ")
+
   
   
   
