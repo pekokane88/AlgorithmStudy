@@ -115,6 +115,9 @@ Algorithm Study History
   * [프로그래머스/3차 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684, "3차 압축")
 * 23.04.30
   * [프로그래머스/[3차]n 진수](https://school.programmers.co.kr/learn/courses/30/lessons/17687, "[3차] n진수")
+* 23.05.28
+  * [프로그래머스/게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844, "게임 맵 최단거리")
+ 
   
 
   
