@@ -123,6 +123,7 @@ Algorithm Study History
   * [프로그래머스/방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994, "방문 길이")
 * 23.06.06
   * [프로그래머스/롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265, "롤케이크 자르기")
+  * [프로그래머스/가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746#, "가장 ")
  
   
 
