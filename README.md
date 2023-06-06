@@ -121,6 +121,8 @@ Algorithm Study History
 * 23.05.28
   * [프로그래머스/[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686#, "[3차] 파일명 정렬")
   * [프로그래머스/방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994, "방문 길이")
+* 23.06.06
+  * [프로그래머스/롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265, "롤케이크 자르기")
  
   
 
