@@ -127,6 +127,8 @@ Algorithm Study History
 * 23.10.09
   * [프로그래머스/연속 부분 수열의 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701, "연속 부분 수열의 합의 개수")
   * [프로그래머스/n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390#, "n^2 배열 자르기")
+* 23.10.10
+  * [프로그래머스/땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913, "땅따먹기")
 
   
  
