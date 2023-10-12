@@ -131,6 +131,8 @@ Algorithm Study History
   * [프로그래머스/땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913, "땅따먹기")
 * 23.10.11
   * [프로그래머스/택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#, "택배상자")
+* 23.10.12
+  * [프로그래머스/2*n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900, "2*n 타일링")
 
   
  
