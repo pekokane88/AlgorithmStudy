@@ -137,6 +137,7 @@ Algorithm Study History
 * 23.10.13
   * [프로그래머스/삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645, "삼각 달팽이")
   * [프로그래머스/큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883, "큰 수 만들기")
+  * [프로그래머스/뒤에 있는 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/154539, "뒤에 있는 큰 수 만들기")
  
   
 
