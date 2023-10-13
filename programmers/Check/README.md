@@ -10,3 +10,4 @@
 * pq, vector 에서 임의의 정렬 함수 선언해서 사용하기 -> 한 번씩 꼭 나오니 숙지해두자. 
 * split 이랑 back tracking 관련해서도 코드 적어두기.
 * level 1,2 문제 유형 보기 편하게 정리해두기.
+* unordered_map 탐색 -> for(auto elem : um) 해서 elem 으로 탐색 가능.
